@@ -14,7 +14,7 @@ In this work, we propose an approach that provides forest loss estimations for s
 
 Key elements of the workflow:
 
-* Mitigation of speckle effect using the **Dry Coefficient** (mean of values under the first quartile, preserving spatial resolution).
+* Mitigation of speckle effect using the **Dry Coefficient**.
 * Generation of **forest vs. non-forest** land cover maps via **Object-Based Random Forest Classification** on **Google Earth Engine (GEE)**.
 * Temporal monitoring, with results demonstrated for the Brazilian Amazon between **2015–2019** (bi-temporal) and **monthly for 2020**.
 
